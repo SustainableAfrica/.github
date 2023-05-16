@@ -16,3 +16,5 @@ Climate Risk Research Foundation, The Linux Foundation’s OS Climate, Generatio
 Challenge participants from nine Nigerian universities will receive access to the data, tools, models, infrastructure, and mentorship needed to assess climate change hazards, vulnerabilities, and impacts on Nigeria's agriculture sector with the goal of identifying potential adaptation strategies.  Challenge offers $10,000 in grants to the top three individuals or teams.
 
 With the support of OS-Climate members and volunteers such as Amazon, LSEG, UN PRI, and others, the Challenge aims to measure the food security risk to the population in the region and includes submissions of potential mitigation strategies.
+
+Learn more: [Video](https://youtu.be/avZNkpM1Xsc)
