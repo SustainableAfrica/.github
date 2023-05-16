@@ -27,3 +27,10 @@ With the support of OS-Climate members and volunteers such as Amazon, LSEG, UN P
 Watch the [Video](https://youtu.be/avZNkpM1Xsc)
 
 Learn more about [the Challenge](https://github.com/SustainableAfrica/ClimateRiskChallenge#climate-risk-challenge)
+
+## Volunteer to Help
+Do you want to Make A Difference? [Click Here](https://sustainableafricainitiative.org/engagement/#start-collaboraing) to volunteer.
+We need software developers, climate scientists, data scientists, project managers, community managers, data engineers, and others to help.
+
+## Join the Challenge
+Are you a Nigerian citizen? [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSf91QrC_wWByAg_iSF9hY2B-KCK9bafq4K2Gyy0CtHFd-yiaw/viewform?usp=sf_link) To Participate 
