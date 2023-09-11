@@ -24,7 +24,7 @@ Learn more about [the Challenge](https://github.com/SustainableAfrica/ClimateRis
 Click [here](https://github.com/SustainableAfrica/ClimateRiskChallenge/blob/main/ParticipantResources.md#climate-risk-challenge-resources-for-participants) to get started!
 
 ## Volunteer to Help
-Do you want to Make A Difference? [Click Here](https://sustainableafricainitiative.org/engagement/#start-collaboraing) to volunteer.
+Do you want to Make A Difference? [Click Here](https://sustainableafricainitiative.org/volunteer/) to volunteer.
 We need software developers, climate scientists, data scientists, project managers, community managers, data engineers, and others to help.
 
 ## Join the Challenge
