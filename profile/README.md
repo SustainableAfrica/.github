@@ -10,7 +10,8 @@ SAI aims to encourage collaboration, enhance awareness of the potential climate-
 This platform leverages open-source infrastructure and analytical tools to enable the development of mitigation and adaptation strategies that reduce the impact of physical climate change and a shift towards a low-carbon world. 
 
 ## Current Projects
-### Nigeria: Climate Risk Research Challenge (1-Sep-2023 thru 27-Oct-2023)
+### Nigeria: Climate Risk Research Challenge (1-Sep-2023 thru 3-Nov-2023)
+==> Challenge Submission Date Extended by 1 week, from 27-Oct to 3-Nov <==
 
 Challenge participants from ten Nigerian universities will receive access to the data, tools, models, infrastructure, and mentorship needed to assess climate change hazards, vulnerabilities, and impacts on Nigeria's agriculture sector with the goal of identifying potential adaptation strategies.  The Challenge offers $10,000 in grants to the top three individuals or teams.
 
